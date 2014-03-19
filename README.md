@@ -1,6 +1,6 @@
 Online_Gaming_System
 ====================
-/*****************************************************
+
 Online Gaming System
 @author Yi-wei Huang
 yh2565@Columbia.edu
@@ -20,5 +20,3 @@ ST.java
 
 The sever port is set to 4119 as default.
 
-
-**********************/
