@@ -14,7 +14,11 @@ Files:
 server.java
 client.java
 Game.java
+GameTemplate.java
+SenderThread.java
+ReceiverTrhead.java
 Player.java
+SharedData.java
 ST.java
 
 
