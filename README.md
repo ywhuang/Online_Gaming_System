@@ -6,7 +6,7 @@ Online Gaming System
 yh2565@Columbia.edu
 
 Abstract:
-A multiplayer gaming system comprised of a server and clients over UDP. /n
+A multiplayer gaming system comprised of a server and clients over UDP.
 A turn-based strategy game.
 
 Files:
