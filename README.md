@@ -2,8 +2,7 @@ Online_Gaming_System
 ====================
 
 Online Gaming System
-@author Yi-wei Huang
-yh2565@Columbia.edu
+
 
 Abstract:
 A multiplayer gaming system comprised of a server and clients over UDP.
